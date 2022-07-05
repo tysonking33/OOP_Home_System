@@ -1,0 +1,11 @@
+Smart Home Save
+Room Kitchen
+AC_Unit Air 0 26 0
+Smart_Speaker Smart_Speaker 0 No_signal 3
+Room Office
+Lights Lamp 1 white
+Lights Downlight 1 white
+Room Bedroom
+Smart_Television SMTV 0 No_signal 0 0
+AC_Unit AC 0 26 0
+AC_Unit AC 0 26 0
